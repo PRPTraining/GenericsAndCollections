@@ -1,3 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Initial Code!");
+﻿
+System.Console.WriteLine("Genric Calculator Add method!!!");
+
+
+GenericCalculator<int> genericCalculator = new();
+Console.WriteLine(genericCalculator.Add(5,5));
 
