@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomGenericsPartOne", "Cu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortListPartOne", "SortListPartOne\SortListPartOne.csproj", "{CCFCCF39-F9CE-4180-8219-81039CAC3F0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortListPart2", "SortListPart2\SortListPart2.csproj", "{E003C444-2FE9-471F-AFAF-9F07B0BC341C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortListLibrary", "SortListLibrary\SortListLibrary.csproj", "{DF98A137-FB32-4CEE-8BA4-37555C80AA74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{CCFCCF39-F9CE-4180-8219-81039CAC3F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCFCCF39-F9CE-4180-8219-81039CAC3F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCFCCF39-F9CE-4180-8219-81039CAC3F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E003C444-2FE9-471F-AFAF-9F07B0BC341C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E003C444-2FE9-471F-AFAF-9F07B0BC341C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E003C444-2FE9-471F-AFAF-9F07B0BC341C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E003C444-2FE9-471F-AFAF-9F07B0BC341C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF98A137-FB32-4CEE-8BA4-37555C80AA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF98A137-FB32-4CEE-8BA4-37555C80AA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF98A137-FB32-4CEE-8BA4-37555C80AA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF98A137-FB32-4CEE-8BA4-37555C80AA74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

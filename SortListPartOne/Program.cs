@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using SortListPartOne;
+using SortListLibrary;
+
 
 Console.WriteLine("Demo - Sorting a List with integer type");
 List<int> numbers = new List<int> { 3, 2, 5, 1 };
